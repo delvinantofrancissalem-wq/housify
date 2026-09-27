@@ -1,0 +1,6 @@
+{
+  "name": "CivilPlan - BOQ & Architectural Blueprint Studio",
+  "description": "Professional Civil Engineering, Quantity Surveying, and Architectural Blueprint generator. Interactive 2D CAD floor plans, itemized Bill of Quantities (BOQ), and construction cost estimators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
